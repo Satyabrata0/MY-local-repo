@@ -428,7 +428,7 @@ main{
 .box_space{
     width: 1800px;
     height: 20px;
-    background-color:#E3E6E6 ;
+    /* background-color:#E3E6E6 ; */
     border: none;
     text-decoration: none;
 }
@@ -671,3 +671,4 @@ main{
     background-position: center;
     background-size: cover;
 }
+
